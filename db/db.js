@@ -1,5 +1,5 @@
 {
-    'plants': [
+    "plants": [
       {
         "id": "1",
         "name": "Aloe",
