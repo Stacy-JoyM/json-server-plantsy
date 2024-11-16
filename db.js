@@ -1,0 +1,71 @@
+{
+    'plants': [
+      {
+        "id": "1",
+        "name": "Aloe",
+        "image": "./images/aloe.jpg",
+        "price": 15.96
+      },
+      {
+        "id": "2",
+        "name": "ZZ Plant",
+        "image": "./images/zz-plant.jpg",
+        "price": 25.92
+      },
+      {
+        "id": "3",
+        "name": "Pilea peperomioides",
+        "image": "./images/pilea.jpg",
+        "price": 5.99
+      },
+      {
+        "id": "4",
+        "name": "Pothos",
+        "image": "./images/pothos.jpg",
+        "price": 12.11
+      },
+      {
+        "id": "5",
+        "name": "Jade",
+        "image": "./images/jade.jpg",
+        "price": 10.34
+      },
+      {
+        "id": "6",
+        "name": "Monstera Deliciosa",
+        "image": "./images/monstera.jpg",
+        "price": 25.99
+      },
+      {
+        "id": "7",
+        "name": "Fiddle Leaf Fig",
+        "image": "./images/fiddle-leaf-fig.jpg",
+        "price": 50.0
+      },
+      {
+        "id": "911b3e80-214c-492f-9897-3456d528683d",
+        "name": "New Plant",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/philodendron-green-house-plant-669e8b7b85bf1.jpg?crop=0.668xw:1.00xh;0.299xw,0&resize=980:*",
+        "price": 13.5
+      },
+      {
+        "id": "863ebc43-66b3-4ba0-8bc9-1927c90c7f5b",
+        "name": "New Cacti and Succulent",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/high-angle-view-of-plants-in-bowl-royalty-free-image-1659028453.jpg?crop=0.583xw:0.875xh;0.213xw,0.0357xh&resize=980:*",
+        "price": 15.9
+      },
+      {
+        "id": "696638fe-6892-4111-bad9-1d988e296beb",
+        "name": "New Leafy Plant",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/man-watering-houseplants-royalty-free-image-1678736179.jpg?crop=0.668xw:1.00xh;0.136xw,0&resize=640:*",
+        "price": 15.8
+      },
+      {
+        "id": "94c0c37b-088c-4e54-b29f-bffab5701445",
+        "name": "Indoor Planty",
+        "image": "./images/jade.jpg",
+        "price": 12.99
+      }
+    ]
+  }
+  
